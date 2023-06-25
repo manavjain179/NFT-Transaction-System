@@ -7,3 +7,6 @@ balance in his account, he or she may purchase NFTs. Additionally, traders have 
 commission rate in either fiat money or Ethereum. Traders can cancel a certain payment or NFT transaction up to
 15 minutes of transaction submission. Based on the dates entered by the manager, the manager can provide
 aggregate information for daily, weekly, and monthly total transactions.
+
+![image](https://github.com/manavjain179/NFT-Transaction-System/assets/59159721/ae5e2871-86e1-4d18-937d-232fd964a196)
+
